@@ -1,0 +1,20 @@
+* 703e32f actualizó archivo python
+*   ad0cb33 segundo agragando estaciones con fechas
+|\  
+| * d4cffc8 agregando estaciones del año
+* | 4849a6a agregando estaciones del año con fechas
+|/  
+*   a93bc07 merge en forma manual
+|\  
+| * 58055cf rama html de proyecto2
+* | 63aa124 fusionar ramas con: manual merge
+* |   4eab831 Merge branch 'js'
+|\ \  
+| * | 6281da7 rama js con archivo js
+* | | ab4e0aa archivo style.css en rama css
+| |/  
+|/|   
+* | 3eb305a mi primera branch html
+|/  
+* 093dfa5 Agregué línea al README
+* c14abdc  mi segundo proyecto

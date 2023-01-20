@@ -1,0 +1,80 @@
+commit 703e32f8f06a72967da2b295acd27974799a985c
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Fri Jan 20 15:44:57 2023 -0500
+
+    actualizó archivo python
+
+commit ad0cb337835f239d88650194c6bf57d7bcb80f3a
+Merge: 4849a6a d4cffc8
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Thu Jan 19 16:25:44 2023 -0500
+
+    segundo agragando estaciones con fechas
+
+commit 4849a6ab41f5b8c52190683e8bde7e6eabc0e2ec
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Thu Jan 19 15:31:24 2023 -0500
+
+    agregando estaciones del año con fechas
+
+commit d4cffc83422e43316d70f0365ba0081527277e4a
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Thu Jan 19 15:31:24 2023 -0500
+
+    agregando estaciones del año
+
+commit a93bc07fc3eb488e218d9f586f2ed81b4fcf2ee7
+Merge: 63aa124 58055cf
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Thu Jan 19 14:55:17 2023 -0500
+
+    merge en forma manual
+
+commit 58055cf930e3dd2822532870c5e9f44fae557b64
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Thu Jan 19 14:39:24 2023 -0500
+
+    rama html de proyecto2
+
+commit 63aa124f8fe8a83c78e944db77f7ab37c7e8c297
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Thu Jan 19 14:33:25 2023 -0500
+
+    fusionar ramas con: manual merge
+
+commit 4eab8318d77985b6aa0f7dc543565581a1d14c67
+Merge: ab4e0aa 6281da7
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Wed Jan 18 16:59:19 2023 -0500
+
+    Merge branch 'js'
+
+commit 6281da768749e5a95741da1c2743b351b40b27af
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Wed Jan 18 15:56:07 2023 -0500
+
+    rama js con archivo js
+
+commit ab4e0aa205a5dc68482b73c7ccd34a0fde455a2c
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Wed Jan 18 15:34:12 2023 -0500
+
+    archivo style.css en rama css
+
+commit 3eb305a155a540bf598937296292b6849ed1d35b
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Wed Jan 18 15:09:25 2023 -0500
+
+    mi primera branch html
+
+commit 093dfa50482266d38ecd7a7019284108d11fd399
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Mon Jan 16 17:29:48 2023 -0500
+
+    Agregué línea al README
+
+commit c14abdc148e35d1aa0cbf2ca823b45450b4b1907
+Author: Jorge Peña <jepenat@gmail.com>
+Date:   Mon Jan 16 17:14:34 2023 -0500
+
+     mi segundo proyecto
